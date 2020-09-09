@@ -26,6 +26,7 @@
     "dependencies": {
         "laravel-echo": "^1.8.1",
         "pusher-js": "^7.0.0",
-        "vue-strap": "github:wffranco/vue-strap"
+        "vue-strap": "github:wffranco/vue-strap",
+        "vue-timeago": "^5.1.2"
     }
 }

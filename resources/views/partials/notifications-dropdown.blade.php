@@ -1,4 +1,5 @@
-<li class="nav-item dropdown">
+<order-notifications user_id="{{ auth()->user()->id }}"></order-notifications>
+{{-- <li class="nav-item dropdown">
   <a class="nav-link" data-toggle="dropdown" href="#">
     <i class="fas fa-bell"></i>
     <span class="badge badge-danger">8</span>
@@ -32,4 +33,4 @@
       </div>
     </li>
   </ul>
-</li>
+</li> --}}
