@@ -14,11 +14,9 @@
 				</div>
 				@endif
 
-				<strong>Progress Bar goes here</strong>
-				<div class="order-status">
-					<strong>Order Status:</strong> {{ $order->status->name }}
-				</div>
+				<order-progress status="{{ $order->status->name}}" initial="{{ $order->status->percent }}" order_id="{{ $order->id }}" ></order-progress>
 
+				<order-alert user_id="{{ auth()->user()->id }}"></order-alert>
 			<hr>
 
 			<div class="order-details">

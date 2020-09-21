@@ -19,6 +19,8 @@
 					<a href="{{route('user.order.create')}}" class="btn btn-success">Order Pizza</a>
 					@else
 
+					<order-alert user_id="{{ auth()->user()->id }}"></order-alert>
+
 					<div class="table table-responsive">
 						<table class="table table-striped table-bordered">
 							<thead>

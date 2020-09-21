@@ -43,7 +43,7 @@
 
 								<div class="hr-line-dashed"></div>
 
-								<div class="for-group">
+								<div class="form-group">
 									<label class="col-sm-8 control-label"><strong>Toppings</strong></label>
 									<div class="col-sm-10">
 										<label class="checkbox-inline">
