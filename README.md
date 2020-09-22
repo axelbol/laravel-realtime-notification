@@ -1,6 +1,9 @@
 # Realtime pizza tracker with Laravel 7 - Vue and Pusher
+In this branch we have the basics for starting the project, follow the steps below
 
 ## How to use
+
+Code for [https://www.youtube.com/watch?v=r4gHtN_Is4s](https://www.youtube.com/watch?v=r4gHtN_Is4s)
 
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__
