@@ -1,5 +1,5 @@
 # Realtime pizza tracker with Laravel 7 - Vue and Pusher
-In this branch we have all the features we worked for realtime notifications with Laravel 7, Vue and Pusher
+In this branch we have all the features we worked for realtime notifications with Laravel 7, Vue and Pusher, if you want to start from the beginning go to crud branch
 
 ## How to use
 
