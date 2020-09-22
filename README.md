@@ -8,8 +8,8 @@ Code for [https://www.youtube.com/watch?v=r4gHtN_Is4s](https://www.youtube.com/w
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__
 - Edit database credentials in __.env__
-- Change __BROADCAST_DRIVER__ to pusher in __.env__
-- Enter your Pusher credentials in __.env__
+- Change __BROADCAST_DRIVER__ to __pusher__ in __.env__
+- Enter your pusher credentials in __.env__
 - Run __composer install__
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__
