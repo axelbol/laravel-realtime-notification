@@ -1,9 +1,16 @@
 # Realtime pizza tracker with Laravel 7 - Vue and Pusher
-In this branch we have all the features we worked for realtime notifications with Laravel 7, Vue and Pusher, if you want to start from the beginning go to crud branch
+
+This is a Laravel 7 project where we work Realtime notifications with Vue.js and Pusher.
+
+This project has 3 branches.
+
+- The __crud__ branch has the starting point to start this project.
+- The __realtime__ branch has all the work done and all the configurations done to send realtime notifications.
+- The __master__ branch has the final project.
 
 ## How to use
 
-Code for [https://www.youtube.com/watch?v=r4gHtN_Is4s](https://www.youtube.com/watch?v=r4gHtN_Is4s)
+Code for [Real-Time Notifications Laravel](https://www.youtube.com/watch?v=r4gHtN_Is4s)
 
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__
@@ -26,3 +33,7 @@ Feel free to use and re-use any way you want.
 
 - Check out my YouTube channel [Dot Coding](https://www.youtube.com/channel/UCYobBTcVkUvIqQW3sSTGarg).
 - Feel free to send me an e-mail for support [dot.bol.lp@gmail.com](mailto:dot.bol.lp@gmail.com).
+
+## Tip
+
+After cloning you can see all the branches with _git branch -a_ and you can go to the branch you want with _git checkout BranchName_
