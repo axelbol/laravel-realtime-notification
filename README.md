@@ -10,7 +10,7 @@ This project has 3 branches.
 
 ## How to use
 
-Code for [Real-Time Notifications Laravel](https://www.youtube.com/watch?v=r4gHtN_Is4s)
+Code for [Real-Time Notifications Laravel](https://www.youtube.com/watch?v=r4gHtN_Is4s&list=PLYO5TOinzgTjh0S7EakH2QaUahNb3Yiwz)
 
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__
